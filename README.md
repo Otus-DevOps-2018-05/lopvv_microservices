@@ -11,3 +11,14 @@ lopvv microservices repository
 
 #### Задание со \*
 Решение описано в docker-monolith/docker-1.log
+
+
+## Homework-13
+Создал новый проект в GCP
+Настроил локальное окружение на работу с новым пректом
+Создал docker host с помощью docker machine на GCE
+Создал образ на удаленном docker host
+Познакомился с DockerHub
+
+
+#### Задание со \*
