@@ -53,10 +53,24 @@ lopvv microservices repository
 
 ## Homework-16
 - Познакомился с работой Prometheus
-- Собрал контейнер с Prometheus для мониторинга сервисов приложения reddit
+- Собрал образ с Prometheus для мониторинга сервисов приложения reddit
 - Собрал и запушил образы в DockerHub https://hub.docker.com/r/randomile/
 - Добавил Node Exporter в Prometheus для мониторинга состояния Docker хоста
 
+
+#### Задание со \*
+Вернуcь позже
+
+
+## Homework-17
+- Разделил docker-compose.yml на 2. В одном описание приложений (docker-compose.yml), во втором мониторинг (docker-compose-monitoring.yml)
+- Собрал образ cAdvisor для наблюдения за состоянием контейнеров
+- Добавил контейнер с Grafana для визуализации данных
+- Разобрался с импортом/экспортом dashboards в grafana
+- Создал 2 dashboard с несколькими графиками
+- Познакомился с различными типами графиков и функций
+- Собрал образ alertmanager с настройками интеграции со Slack
+- Запушил образы в DockerHub https://hub.docker.com/r/randomile/
 
 #### Задание со \*
 Вернуcь позже
