@@ -86,3 +86,7 @@ lopvv microservices repository
 
 #### Задание со \*
 Вернуcь позже
+
+## Homework-19
+- Прошел туториал Kubernetes The Hard way
+- Проверил, что дейплойменты написаны корретно и поды запускаются
