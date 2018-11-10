@@ -1,4 +1,4 @@
-
+image: ruby:2.4.2 
 stages:
   - build
   - test
@@ -21,7 +21,7 @@ test_unit_job:
   services:
     - mongo:latest
   script:
-    - ruby simpletest.rb 
+    - ruby simpletest.rb
 
 test_integration_job:
   stage: test
