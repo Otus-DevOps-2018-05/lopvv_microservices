@@ -95,3 +95,6 @@ lopvv microservices repository
 - Развернул локальное окружение для работы с Kubernetes
 - Развернул Kubernetes в GKE
 - Запустил тестовое приложение reddit с помощью Kubernetes локально и в GKE
+
+## Homework-21
+- Развернул и познакомился с работой Ingress, ssl, LoadBalancer, Network Policies, PersistentVolumes в рамках GCP Kubernetes
