@@ -90,3 +90,11 @@ lopvv microservices repository
 ## Homework-19
 - Прошел туториал Kubernetes The Hard way
 - Проверил, что дейплойменты написаны корретно и поды запускаются
+
+## Homework-20
+- Развернул локальное окружение для работы с Kubernetes
+- Развернул Kubernetes в GKE
+- Запустил тестовое приложение reddit с помощью Kubernetes локально и в GKE
+
+## Homework-21
+- Развернул и познакомился с работой Ingress, ssl, LoadBalancer, Network Policies, PersistentVolumes в рамках GCP Kubernetes
