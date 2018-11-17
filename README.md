@@ -98,3 +98,8 @@ lopvv microservices repository
 
 ## Homework-21
 - Развернул и познакомился с работой Ingress, ssl, LoadBalancer, Network Policies, PersistentVolumes в рамках GCP Kubernetes
+
+## Homework-22
+- Познакопился с работой Helm
+- Развернул Gitlab в Kubernetes
+- Запустил простой CI/CD конвейер в Kubernetes
