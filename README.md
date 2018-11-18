@@ -103,3 +103,7 @@ lopvv microservices repository
 - Познакопился с работой Helm
 - Развернул Gitlab в Kubernetes
 - Запустил простой CI/CD конвейер в Kubernetes
+
+## Homework-23
+- Развернул Prometheus в Kubernetes
+- Настроил Prometheus для сбора метрик и Grafana для визуализации 
